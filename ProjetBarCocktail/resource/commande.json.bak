@@ -1,0 +1,15 @@
+[
+  {
+    "dateCommande": "2024-04-20T08:00:00Z",
+    "numeroCommande": 1,
+    "mapBoissonCommande": {
+      "Rhum": 2.0,
+      "Eau": 1.0,
+      "Gin Fizz": 1.0
+    },
+    "mapSupplementCommande": {
+      "Citron": 1.0
+    }
+  }
+]
+

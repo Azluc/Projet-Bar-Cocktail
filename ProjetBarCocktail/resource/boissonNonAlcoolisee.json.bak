@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Eau",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 15.0,
+        "nom": "Eau",
+        "contenance": 500.0,
+        "prix": 15.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Orangina",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 27.0,
+        "nom": "Orangina",
+        "contenance": 350.0,
+        "prix": 10.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.2
+      }
+    ]
+  },
+  {
+    "name": "IceTea",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 155.0,
+        "nom": "IceTea",
+        "contenance": 225.0,
+        "prix": 15.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.2
+      }
+    ]
+  },
+  {
+    "name": "Limonade",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 150.0,
+        "nom": "Limonade",
+        "contenance": 270.0,
+        "prix": 35.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.2
+      }
+    ]
+  },
+  {
+    "name": "Sprite",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Sprite",
+        "contenance": 550.0,
+        "prix": 10.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Coca",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Coca",
+        "contenance": 330.0,
+        "prix": 20.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Coca",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Coca",
+        "contenance": 330.0,
+        "prix": 20.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Coca",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Coca",
+        "contenance": 330.0,
+        "prix": 20.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Coca",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Coca",
+        "contenance": 330.0,
+        "prix": 20.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Coca",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Coca",
+        "contenance": 330.0,
+        "prix": 20.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Coca",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Coca",
+        "contenance": 330.0,
+        "prix": 20.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Eau plate",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 500.0,
+        "nom": "Eau plate",
+        "contenance": 0.33,
+        "prix": 0.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Eau gazeuse",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 100.0,
+        "nom": "Eau gazeuse",
+        "contenance": 0.33,
+        "prix": 0.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Coca-Cola",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 80.0,
+        "nom": "Coca-Cola",
+        "contenance": 0.33,
+        "prix": 3.5,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.12
+      }
+    ]
+  },
+  {
+    "name": "IceTea",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 80.0,
+        "nom": "IceTea",
+        "contenance": 0.33,
+        "prix": 3.5,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.8
+      }
+    ]
+  },
+  {
+    "name": "Fanta",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 80.0,
+        "nom": "Fanta",
+        "contenance": 0.33,
+        "prix": 3.5,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.12
+      }
+    ]
+  },
+  {
+    "name": "Sprite",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 80.0,
+        "nom": "Sprite",
+        "contenance": 0.33,
+        "prix": 3.5,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.12
+      }
+    ]
+  },
+  {
+    "name": "Schweppes",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 80.0,
+        "nom": "Schweppes",
+        "contenance": 0.33,
+        "prix": 3.5,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.12
+      }
+    ]
+  },
+  {
+    "name": "Limonade",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 80.0,
+        "nom": "Limonade",
+        "contenance": 0.33,
+        "prix": 3.5,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.12
+      }
+    ]
+  },
+  {
+    "name": "Jus d\u0027abricot",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus d\u0027abricot",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 12.0
+      }
+    ]
+  },
+  {
+    "name": "Jus d\u0027ananas",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus d\u0027ananas",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 12.0
+      }
+    ]
+  },
+  {
+    "name": "Jus de citron",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus de citron",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 3.0
+      }
+    ]
+  },
+  {
+    "name": "Jus de citron vert",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus de citron vert",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 3.0
+      }
+    ]
+  },
+  {
+    "name": "Jus de cranberry",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus de cranberry",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 12.0
+      }
+    ]
+  },
+  {
+    "name": "Jus de fruit de la passion",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus de fruit de la passion",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 12.0
+      }
+    ]
+  },
+  {
+    "name": "Jus d\u0027orange",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus d\u0027orange",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 12.0
+      }
+    ]
+  },
+  {
+    "name": "Jus de pamplemousse",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus de pamplemousse",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 10.0
+      }
+    ]
+  },
+  {
+    "name": "Jus de pêche",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Jus de pêche",
+        "contenance": 0.33,
+        "prix": 3.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 12.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de canelle",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de canelle",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 50.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de citron jaune",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de citron jaune",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 50.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de citron vert",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de citron vert",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 50.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de fraise",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de fraise",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 50.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de framboise",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de framboise",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 50.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de grenadine",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de grenadine",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 50.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de menthe",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de menthe",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 50.0
+      }
+    ]
+  },
+  {
+    "name": "Sirop de sucre",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 30.0,
+        "nom": "Sirop de sucre",
+        "contenance": 0.05,
+        "prix": 1.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 100.0
+      }
+    ]
+  },
+  {
+    "name": "Bière Sans Alcool",
+    "listeBoissonNonAlcoolisee": [
+      {
+        "quantiteStock": 60.0,
+        "nom": "Bière Sans Alcool",
+        "contenance": 0.5,
+        "prix": 5.0,
+        "degreAlcool": 0.0,
+        "degreSucre": 0.05
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cytech.view.AccueilController">
+   <children>
+      <SplitPane dividerPositions="0.623663101604278" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Label layoutX="137.0" layoutY="79.0" scaleX="3.0" scaleY="3.0" text="BAR A COCKTAILS" />
+                  <Label layoutX="67.0" layoutY="130.0" prefHeight="18.0" prefWidth="267.0" scaleX="1.2" scaleY="1.2" text="Bienvenue sur notre application de commandes." />
+                  <Label layoutX="40.0" layoutY="174.0" prefHeight="22.0" prefWidth="262.0" text="Vous retrouverez toutes les boissons disponibles" />
+                  <Label layoutX="40.0" layoutY="190.0" prefHeight="22.0" prefWidth="356.0" text="dans notre bar :" />
+                  <Label layoutX="68.0" layoutY="229.0" text="BOISSONS ALCOOLISEES" />
+                  <Label layoutX="68.0" layoutY="255.0" text="BOISSONS NON ALCOOLISEES" />
+                  <Label layoutX="68.0" layoutY="282.0" text="COCKTAILS" />
+                  <ImageView fitHeight="43.0" fitWidth="370.0" layoutX="1.0" layoutY="360.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                     <image>
+                        <Image url="@../../../../resources/images/accueil.jpg" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Button id="ClientConnexion" layoutX="78.0" layoutY="150.0" mnemonicParsing="false" onAction="#handleClientConnexionButton" prefHeight="26.0" prefWidth="66.0" text="Client" />
+                  <Button id="BarmanConnexion" layoutX="78.0" layoutY="199.0" mnemonicParsing="false" onAction="#handleBarmanConnexionButton" prefHeight="26.0" prefWidth="66.0" text="Barman" />
+                  <Label layoutX="81.0" layoutY="84.0" scaleX="2.0" scaleY="2.0" text="Vous êtes ?" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

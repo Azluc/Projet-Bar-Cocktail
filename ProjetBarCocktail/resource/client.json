@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Doe",
+    "listeClient": [
+      {
+        "nom": "Doe",
+        "prenom": "John",
+        "email": "aaa@gmail.com",
+        "motDePasse": "abcd",
+        "dateNaissance": "Apr 20, 2024, 7:16:56 PM",
+        "adresse": "11 rue Cergy",
+        "phraseSecrete": "test phrase secrete"
+      }
+    ]
+  },
+  
+
+  {
+    "name": "Lucas",
+    "listeClient": [
+      {
+        "nom": "Lucas",
+        "prenom": "Lucas",
+        "email": "bbb@gmail.com",
+        "motDePasse": "motdepasse",
+        "dateNaissance": "Apr 20, 2024, 7:21:05 PM",
+        "adresse": "12 rue Cergy",
+        "phraseSecrete": "test phrase secrete"
+      }
+    ]
+  },
+  {
+    "name": "Nicolas",
+    "listeClient": [
+      {
+        "nom": "Nicolas",
+        "prenom": "Garance",
+        "email": "garance@gmail.com",
+        "motDePasse": "123",
+        "dateNaissance": "Oct 4, 2003, 12:00:00 AM",
+        "adresse": "cergy",
+        "phraseSecrete": "azerty"
+      }
+    ]
+  },
+ 
+  {
+    "name": "Nicolas",
+    "listeClient": [
+      {
+        "nom": "Nicolas",
+        "prenom": "Garance",
+        "email": "nicolasgar@cy-tech.fr",
+        "motDePasse": "1234",
+        "dateNaissance": "Apr 10, 2024, 12:00:00 AM",
+        "adresse": "Pontivy",
+        "phraseSecrete": "azerty"
+      }
+    ]
+  }
+]

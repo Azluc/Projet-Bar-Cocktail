@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Feuilles de menthe",
+    "listeSupplement": [
+      {
+        "nom": "Feuilles de menthe",
+        "prix": 0.5,
+        "quantiteStock": 30.0
+      }
+    ]
+  },
+  {
+    "name": "Citron",
+    "listeSupplement": [
+      {
+        "nom": "Citron",
+        "prix": 0.3,
+        "quantiteStock": 25.0
+      }
+    ]
+  },
+  {
+    "name": "Sucre de canne",
+    "listeSupplement": [
+      {
+        "nom": "Sucre de canne",
+        "prix": 0.2,
+        "quantiteStock": 37.0
+      }
+    ]
+  },
+  {
+    "name": "Citron Vert",
+    "listeSupplement": [
+      {
+        "nom": "Citron Vert",
+        "prix": 0.8,
+        "quantiteStock": 15.0
+      }
+    ]
+  },
+  {
+    "name": "Olives",
+    "listeSupplement": [
+      {
+        "nom": "Olives",
+        "prix": 0.2,
+        "quantiteStock": 55.0
+      }
+    ]
+  },
+  {
+    "name": "Tranches de gingembre",
+    "listeSupplement": [
+      {
+        "nom": "Tranches de gingembre",
+        "prix": 0.1,
+        "quantiteStock": 78.0
+      }
+    ]
+  },
+  {
+    "name": "Basilic",
+    "listeSupplement": [
+      {
+        "nom": "Basilic",
+        "prix": 36.0,
+        "quantiteStock": 20.0
+      }
+    ]
+  },
+  {
+    "name": "Basilic",
+    "listeSupplement": [
+      {
+        "nom": "Basilic",
+        "prix": 36.0,
+        "quantiteStock": 20.0
+      }
+    ]
+  }
+]

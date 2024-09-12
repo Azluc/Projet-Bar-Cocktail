@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Rhum",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 15.0,
+        "nom": "Rhum",
+        "contenance": 0.3,
+        "prix": 6.0,
+        "degreAlcool": 40.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Vodka",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 15.0,
+        "nom": "Vodka",
+        "contenance": 0.3,
+        "prix": 7.0,
+        "degreAlcool": 50.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Biere",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 50.0,
+        "nom": "Biere",
+        "contenance": 0.5,
+        "prix": 5.0,
+        "degreAlcool": 5.0,
+        "degreSucre": 5.0
+      }
+    ]
+  },
+  {
+    "name": "Tequila",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 26.0,
+        "nom": "Tequila",
+        "contenance": 0.3,
+        "prix": 10.0,
+        "degreAlcool": 40.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Champagne",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 15.0,
+        "nom": "Champagne",
+        "contenance": 0.15,
+        "prix": 10.0,
+        "degreAlcool": 12.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Triple sec",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 20.0,
+        "nom": "Triple sec",
+        "contenance": 0.2,
+        "prix": 10.0,
+        "degreAlcool": 20.0,
+        "degreSucre": 10.0
+      }
+    ]
+  },
+  {
+    "name": "Gin",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 15.0,
+        "nom": "Gin",
+        "contenance": 0.3,
+        "prix": 4.0,
+        "degreAlcool": 40.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Whisky",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 15.0,
+        "nom": "Whisky",
+        "contenance": 0.3,
+        "prix": 8.0,
+        "degreAlcool": 40.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Martini",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 15.0,
+        "nom": "Martini",
+        "contenance": 0.3,
+        "prix": 8.0,
+        "degreAlcool": 40.0,
+        "degreSucre": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Merde en boite",
+    "listeBoissonAlcoolisee": [
+      {
+        "quantiteStock": 200.0,
+        "nom": "Merde en boite",
+        "contenance": 550.0,
+        "prix": 10.0,
+        "degreAlcool": 0.75,
+        "degreSucre": 0.3
+      }
+    ]
+  }
+]

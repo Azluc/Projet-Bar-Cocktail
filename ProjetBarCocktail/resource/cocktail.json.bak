@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Gin Fizz",
+    "mapBoissons": {
+      "Eau gazeuse": 0.15,
+      "Gin": 0.1
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0,
+      "citron": 6.0
+    }
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "orange": 0.1,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0
+    }
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "orange": 0.1,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0
+    }
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "orange": 0.1,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0
+    }
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "orange": 0.1,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0
+    }
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "orange": 0.1,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0
+    }
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "orange": 0.1,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0
+    }
+  }
+]

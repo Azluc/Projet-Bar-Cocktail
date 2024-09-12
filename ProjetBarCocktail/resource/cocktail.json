@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Gin Fizz",
+    "mapBoissons": {
+      "Eau gazeuse": 0.15,
+      "Gin": 0.1
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0,
+      "citron": 6.0
+    }
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "orange": 0.1,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {
+      "Feuille de menthe": 6.0
+    }
+  },
+  {
+    "name": "Rhum-coca",
+    "mapBoissons": {
+      "Coca-Cola": 0.12,
+      "Rhum": 0.02
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Monaco",
+    "mapBoissons": {
+      "Biere": 0.1,
+      "Limonade": 0.1,
+      "Sirop de grenadine": 0.02
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Black Velvet",
+    "mapBoissons": {
+      "Biere": 0.06,
+      "Champagne": 0.15
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Tequila Sunrise",
+    "mapBoissons": {
+      "Sirop de grenadine": 0.02,
+      "Jus d\u0027orange": 0.33,
+      "Tequila": 0.06
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Rhum Menthe",
+    "mapBoissons": {
+      "Sirop de menthe": 0.02,
+      "Eau gazeuse": 0.1,
+      "Jus de citron": 0.02,
+      "Rhum": 0.04
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Oasis",
+    "mapBoissons": {
+      "Sirop de sucre": 0.02,
+      "Sirop de menthe": 0.01,
+      "Eau gazeuse": 0.03,
+      "Gin": 0.02
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Cosmopolitan",
+    "mapBoissons": {
+      "Jus de citron vert": 0.02,
+      "Jus de cranberry": 0.02,
+      "Triple sec": 0.02,
+      "Vodka": 0.04
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Calypso",
+    "mapBoissons": {
+      "Jus d\u0027ananas": 0.04,
+      "Sirop de grenadine": 0.02,
+      "Jus de citron": 0.02,
+      "Champagne": 0.06
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Belle Ile",
+    "mapBoissons": {
+      "Jus d\u0027abricot": 0.02,
+      "Jus de pêche": 0.02,
+      "Jus d\u0027orange": 0.02,
+      "Whisky": 0.03,
+      "Jus de pamplemousse": 0.03
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Mojito",
+    "mapBoissons": {
+      "Jus de citron vert": 0.05,
+      "Rhum": 0.05,
+      "Eau gazeuse": 0.15
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Virgin Mojito",
+    "mapBoissons": {
+      "Sirop de sucre": 0.03,
+      "Eau gazeuse": 0.06,
+      "Sirop de citron vert": 0.06
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Hyper Fruit",
+    "mapBoissons": {
+      "Sirop de fraise": 0.03,
+      "Schweppes": 0.15,
+      "Jus d\u0027orange": 0.15,
+      "Sirop de canelle": 0.06
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Rio",
+    "mapBoissons": {
+      "Limonade": 0.15,
+      "Sirop de grenadine": 0.02,
+      "Jus d\u0027orange": 0.15
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Raspberry Lemonade",
+    "mapBoissons": {
+      "Limonade": 0.3,
+      "Jus de citron": 0.1,
+      "Sirop de framboise": 0.05
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Bora Bora",
+    "mapBoissons": {
+      "Jus d\u0027ananas": 0.1,
+      "Sirop de grenadine": 0.02,
+      "Jus de citron": 0.02,
+      "Jus de fruit de la passion": 0.06
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Vodka Martini",
+    "mapBoissons": {
+      "Martini": 0.01,
+      "Vodka": 0.06
+    },
+    "mapSupplements": {}
+  },
+  {
+    "name": "Jack Rose",
+    "mapBoissons": {
+      "Sirop de grenadine": 0.02,
+      "Jus de citron": 0.05,
+      "Whisky": 0.04
+    },
+    "mapSupplements": {}
+  }
+]
